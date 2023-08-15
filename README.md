@@ -21,3 +21,5 @@ This link for the Test_Image_Detection_Results **(https://drive.google.com/drive
 
 
 The whole project can work in **python(version 3.6.7)**
+
+Finally the video demo link will be **(https://drive.google.com/file/d/1e3aidI2E0eK0_Eu_XnRxlp9WJsLfxJsC/view?usp=drivesdk)**
