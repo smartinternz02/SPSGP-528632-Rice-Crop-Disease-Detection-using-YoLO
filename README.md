@@ -9,7 +9,7 @@ The overall project file is presented in this drive link **(https://drive.google
 This is the links of datasets: we have three things in the project 
 1) **Training images** dataset with labeling
 2) **Testing images** without labelling
-3) After we completion of the detector.py file it ill genarate the **Test_Image_Detection_Results** file
+3) After completion(running) of the detector.py file it will genarates the **Test_Image_Detection_Results** file(This is the output of the project)
 
 This link for the training dataset **(https://drive.google.com/drive/folders/1OLJ3_zEpxCgWSV80vUalXS6qna4VPTHx?usp=sharing)**
 
