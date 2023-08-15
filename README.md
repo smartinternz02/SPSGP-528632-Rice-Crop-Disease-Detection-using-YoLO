@@ -3,7 +3,7 @@ Rice Crop Disease Detection using YoLO
 
 This are the requirements for project **(https://drive.google.com/file/d/12nbA3tZaoK6X4GSYCY1rJb7ri_huG7s7/view?usp=drive_link)**
 
-This is the documentation of our project **(https://drive.google.com/drive/folders/1WCR1ruQAUn1u4Os-hJkq1MJ0yT30BlW8?usp=sharing)**
+This is the documentation of our project **(https://drive.google.com/file/d/1dNbQWBC7hq00uE1Z6f5szLdU0zP3FTYB/view?usp=sharing)**
 
 The overall project file is presented in this drive link **(https://drive.google.com/drive/folders/1WCR1ruQAUn1u4Os-hJkq1MJ0yT30BlW8?usp=sharing)** 
 
