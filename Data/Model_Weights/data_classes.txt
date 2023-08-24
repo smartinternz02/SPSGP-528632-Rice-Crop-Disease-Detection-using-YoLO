@@ -1,0 +1,3 @@
+leaf blight
+leaf smut
+white tip
