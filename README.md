@@ -12,4 +12,4 @@ After completion(running) of the detector.py file  the Test_Image_Detection_Resu
 
 The whole project was executed using python (version 3.6.7) and anaconda prompt.
 
-Finally the demo link is **(https://drive.google.com/file/d/1e3aidI2E0eK0_Eu_XnRxlp9WJsLfxJsC/view?usp=drivesdk)**
+
